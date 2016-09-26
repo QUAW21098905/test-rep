@@ -17,6 +17,7 @@ public class GitDemo {
     public static void main(String[] args) {
         System.out.println("hello world lol");
         System.out.println("2nd line");
+        System.out.println("3rd");
     }
     
 }
