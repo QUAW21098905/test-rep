@@ -9,15 +9,8 @@ package gitdemo;
  *
  * @author Wilson
  */
-public class GitDemo {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        hello.hello();
-        cryClass.cry();
-        OTL.printit();
+public class OTL {
+    public static void printit(){
+        System.out.println("OTL");
     }
-    
 }
