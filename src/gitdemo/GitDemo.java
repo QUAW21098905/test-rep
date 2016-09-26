@@ -16,6 +16,7 @@ public class GitDemo {
      */
     public static void main(String[] args) {
         hello.hello();
+        cryClass.cry();
     }
     
 }
