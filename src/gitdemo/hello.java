@@ -9,13 +9,8 @@ package gitdemo;
  *
  * @author Wilson
  */
-public class GitDemo {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        hello.hello();
+public class hello {
+    public static void hello(){
+        System.out.println("hello");
     }
-    
 }
